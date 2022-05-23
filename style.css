@@ -1,0 +1,143 @@
+.header-part {
+    display: flex;
+}
+
+.focused-mission {
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    border-left: 3px solid;
+    border-color: #FF5959;
+    padding-left: 8px;
+}
+
+span {
+    color: orange;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width-info {
+    margin: 8%;
+}
+
+.explore-btn {
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    color: white;
+    background-color: #FF5959;
+    text-decoration: none;
+    border-radius: 2px;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.set-h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+.set {
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+    gap: 20px;
+}
+
+.set-div-mission {
+    width: 380px;
+    height: 240px;
+    background-color: rgba(79, 157, 166, 0.1);
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+}
+
+.set-div-vission {
+    width: 380px;
+    height: 240px;
+    background-color: rgba(255, 89, 89, 0.1);
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+}
+
+.set-div-goal {
+    width: 380px;
+    height: 240px;
+    background-color: #FFF4D6;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+}
+
+.set-img {
+    width: 30%;
+}
+
+.develop {
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10%;
+}
+
+.dev-half-width {
+    width: 50%;
+}
+
+.dev-half-width img {
+    width: 75%;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+
+}
+
+#boys-img {
+    padding-left: 15%;
+    width: 70%;
+}
+
+.deve-h2 {
+    font-size: 40px;
+}
+
+.deve-p {
+    font-size: 20px;
+    padding-bottom: 20px;
+}
+
+.document-btn {
+    text-decoration: none;
+    padding: 15px 50px;
+    font-weight: 700px;
+    background-color: #FF5959;
+    color: white;
+    border-radius: 5px;
+}
+
+.trd-section {
+    padding-top: 15%;
+}
+
+footer {
+    background-color: black;
+    padding: 3%;
+    margin-top: 80px;
+}
+
+.white {
+    color: white;
+    text-align: center;
+}
